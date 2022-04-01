@@ -8,7 +8,7 @@ This React Portfolio Website is built to share online portfolio using React.
 
 ## Visual
 
-![React Portfolio Website](https://user-images.githubusercontent.com/71200950/161279421-3600c660-c15e-44f3-a5c9-59fccbd0a0f8.png)
+![React Portfolio Website](https://user-images.githubusercontent.com/71200950/161291735-fae0e8a4-68ba-42ce-a122-faef48a17a49.png)
 
 
 ## Built With
