@@ -55,7 +55,7 @@
             }
 
             h1{
-                font-size: 60px;
+                font-size: 35px;
                 margin: 10px 0;
 
                 @include mobile {
@@ -63,10 +63,10 @@
                 }
             }
             h2{
-                font-size: 35px;
+                font-size: 30px;
             }
             h3{
-                font-size: 25px;
+                font-size: 20px;
                 margin-bottom: 20px;
 
                 @include mobile {
