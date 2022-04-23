@@ -7,7 +7,7 @@ function Resume() {
     return (
         <div className="resume" id="resume">
             <h2>Tri Nguyen Resume</h2>
-            <p>Please check out <a href="https://drive.google.com/file/d/1EiJNFompMNcvzjoTst7Ji4CnRwMMu_1H/view?usp=sharing" target="_blank" rel="noreferrer">downloadable resume here</a></p>
+            <p>Please check out <a href="https://drive.google.com/file/d/1Mciv0Gbn-IdlsZH5ChJWHmDPkzk45wwP/view?usp=sharing" target="_blank" rel="noreferrer">downloadable resume here</a></p>
             <h3>Full Stack Development Experience</h3>
             <p>Graduated from the UC Berkeley Extension Full Stack Development Coding Bootcamp, I have developed proficiency with these technologies:</p>
             <ul>
