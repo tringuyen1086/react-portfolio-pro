@@ -14,10 +14,11 @@
         overflow: hidden;
 
         .imgContainer{
-            width: 500px;
-            height: 500px;
+            width: 350px;
+            height: 350px;
             border-radius: 50%;
             display: flex;
+            flex-wrap: auto;
             align-items: center;
             justify-content: center;
             float: right;
@@ -38,7 +39,7 @@
     }
 
     .right{
-        flex: 0.6;
+        flex: 1;
         position: relative;
 
         .wrapper{
@@ -47,6 +48,7 @@
             padding-left: 50px;
             display: flex;
             flex-direction: column;
+            flex-wrap: auto;
             justify-content: center;
 
             @include mobile {
@@ -55,23 +57,33 @@
             }
 
             h1{
-                font-size: 30px;
+                font-size: 28px;
                 margin: 10px 0;
 
                 @include mobile {
-                    font-size: 30px;
+                    font-size: 22px;
+                    margin: 10px 0;
                 }
             }
             h2{
-                font-size: 25px;
+                font-size: 24px;
             }
             h3{
-                font-size: 20px;
-                margin-bottom: 20px;
+                font-size: 18px;
+                margin-bottom: 18px;
 
                 @include mobile {
-                    font-size: 20px;
+                    font-size: 18px;
                 }
+            h4{
+                font-size: 16px;
+                margin: 10px 0;
+
+                @include mobile {
+                    font-size: 12px;
+                    margin: 10px 0;
+                }
+            }
 
                 span{
                     font-size: inherit;
@@ -95,7 +107,7 @@
                 width: 80%;
                 display: flex;
                 margin-top: 5px;
-                font-size: 20px;
+                font-size: 14px;
                 font-weight: light;
                 font-style: oblique;
                 color: navy;

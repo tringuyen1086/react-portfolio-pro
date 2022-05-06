@@ -26,26 +26,26 @@ function About() {
             </div>
             <div className="right">
                 <div className="wrapper">
-                    <h2>Welcome to My Website, I'm</h2>
-                    <h1>Tri Nguyen</h1>
-                    <h3>Web Developer <span ref={textRef}></span></h3>
-                    <p> I am a web developer based in the bay area (San Jose, California). I
-                        love to create web application that is simple yet beautiful to make
-                        people life easier. I always looking for optimize solutions to enhance user
-                        experience.
+                    <h1>Welcome to My Website</h1>
+                    <h3>Tri Nguyen</h3>
+                    <h4>Web Developer <span ref={textRef}></span></h4>
+                    <br/>
+                    <p> Passionate about web development, I love to create web applications that are simple yet beautiful to make people's life easier. 
+                        I am always looking for optimized solutions to enhance user experience.
 
                         <br /> <br />
-                        Being a passionate problem solver, I decided to switch my career from
-                        Finance to the Tech world. Not only am I motivated by the challenges
-                        of new projects, but also I love spending my time on resolving
-                        problems on computers. Eventually, I am making my dream come true by
-                        pursuing my career path in web development.
+                        Experienced Financial Advisor and Financial Planning Specialist with a demonstrated history of working in the financial services industry since 2014. 
+                        Skilled in Portfolio Management, Microsoft Excel, Customer Service, Microsoft Word, and Financial Planning. 
+                        Strong finance professional with a Bachelor of Science (BS) focused in Corporate Finance from San Jose State University and MBA focused in International Business from Assumption University.
 
                         <br /> <br />
-                        To be graduating the web developer boot camp at UC Berkeley Extension
-                        by mid April 2022, I am proactively looking for an entry-level
-                        position where I can find opportunities to expand my knowledge and
-                        work on challenging projects.
+                        Being a passionate problem solver, I decided to switch my career from Finance to the Tech world. 
+                        Not only am I motivated by the challenges of new projects, but also I love spending my time on resolving problems on computers. 
+                        Eventually, I am making my dream come true by pursuing my career path in web development.
+
+                        <br /> <br />
+                        Graduated the full stack web developer boot camp at UC Berkeley Extension, I am proactively looking for opening positions where I can find opportunities to expand my knowledge and work on challenging projects.
+
                     </p>
                 </div>
             </div>
