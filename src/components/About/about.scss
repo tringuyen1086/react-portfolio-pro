@@ -10,7 +10,7 @@
     }
 
     .left{
-        flex: 0.4;
+        flex: 0.5;
         overflow: hidden;
 
         .imgContainer{
@@ -18,7 +18,6 @@
             height: 350px;
             border-radius: 50%;
             display: flex;
-            flex-wrap: auto;
             align-items: center;
             justify-content: center;
             float: right;
@@ -45,7 +44,7 @@
         .wrapper{
             width: 100%;
             height: 100%;
-            padding-left: 50px;
+            padding-left: 30px;
             display: flex;
             flex-direction: column;
             flex-wrap: auto;
