@@ -26,9 +26,9 @@ function About() {
             </div>
             <div className="right">
                 <div className="wrapper">
-                    <h1>Welcome to My Website</h1>
-                    <h3>Tri Nguyen</h3>
-                    <h4>Web Developer <span ref={textRef}></span></h4>
+                    <h2>Welcome to My Website</h2>
+                    <h1>Tri Nguyen</h1>
+                    <h3>Web Developer <span ref={textRef}></span></h3>
                     <br/>
                     <p> Passionate about web development, I love to create web applications that are simple yet beautiful to make people's life easier. 
                         I am always looking for optimized solutions to enhance user experience.
